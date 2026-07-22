@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TaskFlow
 
 A modern, elegant desktop to-do list application built with Python and Tkinter. TaskFlow combines a calming visual design with practical productivity features — inspired by Microsoft To Do and Notion.
@@ -181,3 +182,24 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Author
 
 Built with care for productivity enthusiasts. Contributions and feedback are welcome!
+=======
+# python-playground
+🐍 Python Playground
+
+A collection of desktop applications, games, and utilities built while learning Python.
+
+Projects
+
+✅ CalcApp
+📋 To-Do List
+🐍 Snake Game
+🐱 Desktop Pet
+🎮 Tic-Tac-Toe
+⌨️ Typing Speed Test
+🕹️ Hangman
+⏱️ Pomodoro Timer
+🔑 Password Generator
+🌤️ Weather App
+
+More projects coming soon...
+>>>>>>> 0416e895195a1346f020d5a1b11f169eb688b9ce
