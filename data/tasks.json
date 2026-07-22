@@ -1,0 +1,13 @@
+[
+  {
+    "id": "7fa81758-0355-44c2-b44b-1c67d8426404",
+    "title": "Cooking show",
+    "category": "Shopping",
+    "priority": "High",
+    "due_date": "2026-09-02",
+    "completed": true,
+    "important": true,
+    "created_at": "2026-07-22T18:34:54",
+    "notes": ""
+  }
+]
