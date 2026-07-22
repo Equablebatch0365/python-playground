@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # TaskFlow
 
 A modern, elegant desktop to-do list application built with Python and Tkinter. TaskFlow combines a calming visual design with practical productivity features — inspired by Microsoft To Do and Notion.
